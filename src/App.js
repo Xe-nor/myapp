@@ -1,9 +1,9 @@
-import React from 'react'
+import Restaurant from "./components/basics/restaurant";
 
 const app = () => {
   return (
       <div>
-          welcome guys
+          <Restaurant></Restaurant>
     </div>
   )
 }
